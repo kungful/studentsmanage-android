@@ -1,5 +1,5 @@
 # 教学管家 (Academic Mastery)
-![日历月视图](https://your-image-host.com/calendar-month.png)
+![日历月视图](https://github.com/kungful/studentsmanage-android/blob/4a27d4c7e5e0ab6823e88503ec3209c7381fb466/see.jpg)
 一个基于 Kotlin + Jetpack Compose 的 Android 教学管理系统，专为培训机构、私教老师设计，覆盖学生管理、排课、考勤、课历、收费等全流程。
 
 ## 功能概览
